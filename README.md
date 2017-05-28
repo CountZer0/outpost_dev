@@ -1,20 +1,21 @@
 # outpost_dev
 Test API for Demoing stream release of OpenSource Outpost API
 
-Installation Instructions:
+# Installation Instructions #
 
 
 
-Maya.env
+## Maya.env ##
 Contains environment Variable set:
-OUTPOST_DEV = /path/to/pipelineRoot
+OUTPOST_DEV = /path/to/pipelineRoot    i.e.-/Users/jasonparks/Google Drive/Work/Outpost/outpost_dev
+
 
 startup.py
-Boot-up sequence
-boot paths to sys.path (sub packages and modules of the project)
-optionVars set
-Script Jobs
-Scene Validation
+- Boot-up sequence
+- boot paths to sys.path (sub packages and modules of the project)
+- optionVars set
+- Script Jobs
+- Scene Validation
 
 
 Menu loader
